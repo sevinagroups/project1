@@ -1,10 +1,10 @@
-name: winhelm
+name: winsurfsaya
 
 on: [push, workflow_dispatch]
 
 jobs:
   build:
-    runs-on: winhelm
+    runs-on: winsurf
 
     steps:
     - name: Download Ngrok
