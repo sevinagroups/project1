@@ -19,7 +19,7 @@ jobs:
     - name: Authenticate Ngrok
       run: |
         echo "🔑 Mengautentikasi Ngrok..."
-        .\ngrok.exe authtoken 2xIQOVK3XowjjLTVBUkdt4dnzlO_5uLv6YFdMv67AE8Yk5tvk
+        .\ngrok.exe authtoken 2x7MerFxX7H1GTyULZBpgq7bPO6_4GVCnicPNovpUDJRbHM3N
 
     - name: Enable RDP
       run: |
